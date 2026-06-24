@@ -1,5 +1,7 @@
 # MyFirstApp
 
+[![CI](https://github.com/EamonMcS/MyFirstApp/actions/workflows/ci.yml/badge.svg)](https://github.com/EamonMcS/MyFirstApp/actions/workflows/ci.yml)
+
 A classic console Snake game written in C#.
 
 ## Run
